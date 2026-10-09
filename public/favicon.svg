@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="16" y="16" width="480" height="480" rx="78" fill="#F8F7F2" stroke="#E9E5DA" stroke-width="4"/>
+  <path d="M256 50 398 96v115c0 99-53 168-142 215-89-47-142-116-142-215V96z" fill="#FFFEFA" stroke="#123B63" stroke-width="15" stroke-linejoin="round"/>
+  <path d="M256 70 379 110v101c0 84-43 145-123 190-80-45-123-106-123-190V110z" fill="none" stroke="#C8A66A" stroke-width="5" stroke-linejoin="round"/>
+  <g fill="#C8A66A">
+    <path d="M149 286c-24-10-36-27-38-49 22 3 38 15 47 37-1-27 8-48 28-62 8 24 3 45-14 66 21-12 43-13 65-3-17 18-38 24-64 18-18-2-28-4-36-7z"/>
+    <path d="M363 286c24-10 36-27 38-49-22 3-38 15-47 37 1-27-8-48-28-62-8 24-3 45 14 66-21-12-43-13-65-3 17 18 38 24 64 18 18-2 28-4 36-7z"/>
+    <path d="M157 303c-18 1-32-6-42-21 18-4 33 0 45 14-8-19-8-36 2-52 13 15 16 32 9 51 13-16 29-24 49-22-8 19-23 29-45 32-8 1-13 0-18-2z"/>
+    <path d="M355 303c18 1 32-6 42-21-18-4-33 0-45 14 8-19 8-36-2-52-13 15-16 32-9 51-13-16-29-24-49-22 8 19 23 29 45 32 8 1 13 0 18-2z"/>
+  </g>
+  <g fill="#123B63">
+    <path d="M256 113c-13 0-23 9-27 22-9 2-15 9-15 18 0 8 5 14 12 17l-5 32c-2 12 7 22 19 22h32c12 0 21-10 19-22l-5-32c7-3 12-9 12-17 0-9-6-16-15-18-4-13-14-22-27-22z"/>
+    <path d="M229 222h54l14 21h-82zM239 241h34v28h-34zM225 263h62l13 16h-88z"/>
+  </g>
+  <g fill="#FFFEFA"><circle cx="244" cy="151" r="3.5"/><circle cx="268" cy="151" r="3.5"/><path d="M248 166h16l-8 7z"/></g>
+  <circle cx="256" cy="300" r="34" fill="#FFFEFA" stroke="#123B63" stroke-width="7"/>
+  <circle cx="256" cy="300" r="7" fill="#123B63"/>
+  <g stroke="#123B63" stroke-width="3" stroke-linecap="round">
+    <path d="M256 270v23M256 307v23M226 300h23M263 300h23M235 279l16 16M261 305l16 16M277 279l-16 16M251 305l-16 16M244 272l8 23M260 305l8 23M228 288l23 8M261 304l23 8M232 321l19-14M261 293l19-14M280 321l-19-14M251 293l-19-14"/>
+  </g>
+  <text x="256" y="383" text-anchor="middle" fill="#123B63" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="1">SACHET</text>
+</svg>
